@@ -1,0 +1,12 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\bin\Debug\net9.0\MedHealth.Feedback.Domain.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\bin\Debug\net9.0\MedHealth.Feedback.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\bin\Debug\net9.0\MedHealth.Feedback.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\refint\MedHealth.Feedback.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\MedHealth.Feedback.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Domain\obj\Debug\net9.0\ref\MedHealth.Feedback.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Infrastructure.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Infrastructure.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Infrastructure.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Application.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Application.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\bin\Debug\net9.0\MedHealth.Feedback.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealt.D42119A7.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\refint\MedHealth.Feedback.Infrastructure.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\MedHealth.Feedback.Infrastructure.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Infrastructure\obj\Debug\net9.0\ref\MedHealth.Feedback.Infrastructure.dll

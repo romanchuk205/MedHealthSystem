@@ -1,0 +1,11 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\bin\Debug\net9.0\MedHealth.Appointments.Domain.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\bin\Debug\net9.0\MedHealth.Appointments.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\bin\Debug\net9.0\MedHealth.Appointments.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\refint\MedHealth.Appointments.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\MedHealth.Appointments.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Domain\obj\Debug\net9.0\ref\MedHealth.Appointments.Domain.dll

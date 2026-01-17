@@ -1,0 +1,6 @@
+@MedHealth.Aggregator_HostAddress = http://localhost:5201
+
+GET {{MedHealth.Aggregator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

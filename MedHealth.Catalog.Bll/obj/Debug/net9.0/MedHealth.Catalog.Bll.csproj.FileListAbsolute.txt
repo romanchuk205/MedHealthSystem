@@ -1,0 +1,17 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Bll.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Bll.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\bin\Debug\net9.0\MedHealth.Catalog.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealt.50E805CB.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\refint\MedHealth.Catalog.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\MedHealth.Catalog.Bll.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Bll\obj\Debug\net9.0\ref\MedHealth.Catalog.Bll.dll

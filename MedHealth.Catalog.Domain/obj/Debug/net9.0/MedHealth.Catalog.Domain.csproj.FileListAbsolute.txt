@@ -1,0 +1,11 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\bin\Debug\net9.0\MedHealth.Catalog.Domain.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\bin\Debug\net9.0\MedHealth.Catalog.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\bin\Debug\net9.0\MedHealth.Catalog.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\refint\MedHealth.Catalog.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\MedHealth.Catalog.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Domain\obj\Debug\net9.0\ref\MedHealth.Catalog.Domain.dll

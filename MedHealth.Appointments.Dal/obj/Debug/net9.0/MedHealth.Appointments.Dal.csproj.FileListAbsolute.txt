@@ -1,0 +1,15 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\bin\Debug\net9.0\MedHealth.Appointments.Dal.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\bin\Debug\net9.0\MedHealth.Appointments.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\bin\Debug\net9.0\MedHealth.Appointments.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\bin\Debug\net9.0\MedHealth.Appointments.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\bin\Debug\net9.0\MedHealth.Appointments.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealt.FF50CB19.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\refint\MedHealth.Appointments.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\MedHealth.Appointments.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Dal\obj\Debug\net9.0\ref\MedHealth.Appointments.Dal.dll

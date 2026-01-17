@@ -1,0 +1,17 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Dal.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Dal.runtimeconfig.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\bin\Debug\net9.0\MedHealth.Catalog.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealt.6D2E3B21.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\refint\MedHealth.Catalog.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\MedHealth.Catalog.Dal.genruntimeconfig.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Dal\obj\Debug\net9.0\ref\MedHealth.Catalog.Dal.dll

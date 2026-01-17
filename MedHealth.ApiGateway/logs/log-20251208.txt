@@ -1,0 +1,126 @@
+2025-12-08 21:55:40.557 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 21:55:41.172 +01:00 [INF] Loading proxy data from config.
+2025-12-08 21:55:42.895 +01:00 [INF] Now listening on: http://localhost:54169
+2025-12-08 21:55:42.931 +01:00 [INF] Now listening on: http://localhost:54170
+2025-12-08 21:55:42.990 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 21:55:43.123 +01:00 [INF] Hosting environment: Development
+2025-12-08 21:55:43.178 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 21:55:51.161 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 21:55:52.354 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 1275.7138ms
+2025-12-08 21:55:52.798 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 21:57:57.011 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 21:57:57.178 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 167.089ms
+2025-12-08 21:57:57.443 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 21:57:59.895 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 21:58:00.261 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 366.3125ms
+2025-12-08 21:58:00.579 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 21:58:32.404 +01:00 [INF] Application is shutting down...
+2025-12-08 22:07:08.720 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:07:09.652 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:07:12.440 +01:00 [INF] Now listening on: http://localhost:55246
+2025-12-08 22:07:12.952 +01:00 [INF] Now listening on: http://localhost:55247
+2025-12-08 22:07:13.334 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:07:13.719 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:07:13.916 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:07:17.652 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:07:21.637 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 4261.7271ms
+2025-12-08 22:07:22.243 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:13:45.074 +01:00 [INF] Application is shutting down...
+2025-12-08 22:14:36.806 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:14:38.341 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:14:41.282 +01:00 [INF] Now listening on: http://localhost:55744
+2025-12-08 22:14:43.690 +01:00 [INF] Now listening on: http://localhost:55745
+2025-12-08 22:14:44.447 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:14:46.005 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:14:48.490 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:14:48.518 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 4254.9315ms
+2025-12-08 22:14:48.775 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:14:49.058 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:18:36.102 +01:00 [INF] Application is shutting down...
+2025-12-08 22:19:57.981 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:19:58.623 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:20:03.699 +01:00 [INF] Now listening on: http://localhost:56108
+2025-12-08 22:20:04.230 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:20:05.841 +01:00 [INF] Now listening on: http://localhost:56109
+2025-12-08 22:20:10.865 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 6969.5323ms
+2025-12-08 22:20:11.673 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:20:12.275 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:20:12.346 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:20:13.160 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:25:27.830 +01:00 [INF] Application is shutting down...
+2025-12-08 22:28:02.743 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:28:04.239 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:28:07.422 +01:00 [INF] Now listening on: http://localhost:56525
+2025-12-08 22:28:07.652 +01:00 [INF] Now listening on: http://localhost:56526
+2025-12-08 22:28:08.407 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:28:09.208 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:28:10.542 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 2341.4038ms
+2025-12-08 22:28:11.771 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:28:12.357 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:28:12.366 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:33:43.779 +01:00 [INF] Application is shutting down...
+2025-12-08 22:37:33.783 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:37:34.395 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:37:37.528 +01:00 [INF] Now listening on: http://localhost:57078
+2025-12-08 22:37:37.894 +01:00 [INF] Now listening on: http://localhost:57079
+2025-12-08 22:37:38.061 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:37:38.126 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:37:38.212 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:37:53.368 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:37:53.577 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 253.0328ms
+2025-12-08 22:37:53.701 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:39:59.534 +01:00 [INF] Application is shutting down...
+2025-12-08 22:43:56.142 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:43:56.853 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:43:58.626 +01:00 [INF] Now listening on: http://localhost:57393
+2025-12-08 22:43:58.664 +01:00 [INF] Now listening on: http://localhost:57394
+2025-12-08 22:43:58.744 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:43:58.799 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:43:58.885 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:44:01.385 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:44:01.582 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 258.496ms
+2025-12-08 22:44:01.732 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 22:51:30.175 +01:00 [INF] Application is shutting down...
+2025-12-08 22:55:07.760 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 22:55:09.208 +01:00 [INF] Loading proxy data from config.
+2025-12-08 22:55:11.303 +01:00 [INF] Now listening on: http://localhost:57890
+2025-12-08 22:55:11.822 +01:00 [INF] Now listening on: http://localhost:57891
+2025-12-08 22:55:12.004 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 22:55:12.073 +01:00 [INF] Hosting environment: Development
+2025-12-08 22:55:12.114 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 22:55:25.606 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 22:55:26.781 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 1318.752ms
+2025-12-08 22:55:27.029 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 23:08:07.585 +01:00 [INF] Application is shutting down...
+2025-12-08 23:12:23.447 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 23:12:24.126 +01:00 [INF] Loading proxy data from config.
+2025-12-08 23:12:26.632 +01:00 [INF] Now listening on: http://localhost:58521
+2025-12-08 23:12:27.773 +01:00 [INF] Now listening on: http://localhost:58522
+2025-12-08 23:12:28.352 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 23:12:29.183 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 23:12:30.551 +01:00 [INF] Hosting environment: Development
+2025-12-08 23:12:30.582 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 23:12:30.622 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 2591.3052ms
+2025-12-08 23:12:32.187 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 23:15:38.031 +01:00 [INF] Application is shutting down...
+2025-12-08 23:35:11.521 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 23:35:12.016 +01:00 [INF] Loading proxy data from config.
+2025-12-08 23:35:13.559 +01:00 [INF] Now listening on: http://localhost:59345
+2025-12-08 23:35:13.725 +01:00 [INF] Now listening on: http://localhost:59346
+2025-12-08 23:35:14.294 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 23:35:15.646 +01:00 [INF] Hosting environment: Development
+2025-12-08 23:35:17.354 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 23:35:21.617 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 23:35:22.013 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 452.0457ms
+2025-12-08 23:35:27.333 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404
+2025-12-08 23:49:27.413 +01:00 [INF] Application is shutting down...
+2025-12-08 23:54:06.854 +01:00 [INF] User profile is available. Using 'C:\Users\dana2\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-08 23:54:09.533 +01:00 [INF] Loading proxy data from config.
+2025-12-08 23:54:12.505 +01:00 [INF] Now listening on: http://localhost:60788
+2025-12-08 23:54:12.843 +01:00 [INF] Now listening on: http://localhost:60789
+2025-12-08 23:54:12.954 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-08 23:54:13.297 +01:00 [INF] Hosting environment: Development
+2025-12-08 23:54:13.751 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.ApiGateway
+2025-12-08 23:54:22.250 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5226/ - null null
+2025-12-08 23:54:23.336 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/ - 404 0 null 1128.1822ms
+2025-12-08 23:54:26.585 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5226/, Response status code: 404

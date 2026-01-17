@@ -1,0 +1,15 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\bin\Debug\net9.0\MedHealth.Feedback.Application.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\bin\Debug\net9.0\MedHealth.Feedback.Application.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\bin\Debug\net9.0\MedHealth.Feedback.Application.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\bin\Debug\net9.0\MedHealth.Feedback.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\bin\Debug\net9.0\MedHealth.Feedback.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealt.4070FE34.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\refint\MedHealth.Feedback.Application.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\MedHealth.Feedback.Application.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Feedback.Application\obj\Debug\net9.0\ref\MedHealth.Feedback.Application.dll

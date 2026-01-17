@@ -1,0 +1,17 @@
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Bll.deps.json
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Bll.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Dal.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Domain.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Dal.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\bin\Debug\net9.0\MedHealth.Appointments.Domain.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.csproj.AssemblyReference.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.AssemblyInfoInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.AssemblyInfo.cs
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.csproj.CoreCompileInputs.cache
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealt.4572C2C6.Up2Date
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\refint\MedHealth.Appointments.Bll.dll
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\MedHealth.Appointments.Bll.pdb
+C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Appointments.Bll\obj\Debug\net9.0\ref\MedHealth.Appointments.Bll.dll

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.0.0" />
+    <PackageReference Include="Aspire.Hosting.MongoDB" Version="9.0.0" />
+    <PackageReference Include="Aspire.Hosting.SqlServer" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MedHealth.Appointments.Api\MedHealth.Appointments.Api.csproj" />
+    <ProjectReference Include="..\MedHealth.Catalog.Api\MedHealth.Catalog.Api.csproj" />
+    <ProjectReference Include="..\MedHealth.Feedback.Api\MedHealth.Feedback.Api.csproj" />
+    <ProjectReference Include="..\MedHealth.ApiGateway\MedHealth.ApiGateway.csproj" />
+    <ProjectReference Include="..\MedHealth.Aggregator\MedHealth.Aggregator.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+2025-12-02 22:11:52.442 +01:00 [INF] Now listening on: http://localhost:5031
+2025-12-02 22:11:52.599 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-02 22:11:52.605 +01:00 [INF] Hosting environment: Development
+2025-12-02 22:11:52.610 +01:00 [INF] Content root path: C:\Users\dana2\RiderProjects\MedHealthSystem\MedHealth.Catalog.Api
+2025-12-02 22:11:54.288 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5031/ - null null
+2025-12-02 22:11:54.930 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-12-02 22:11:54.962 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5031/ - 404 0 null 728.831ms
+2025-12-02 22:11:55.389 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5031/, Response status code: 404
+2025-12-02 22:12:03.104 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5031/swager - null null
+2025-12-02 22:12:03.148 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5031/swager - 404 0 null 47.394ms
+2025-12-02 22:12:03.229 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5031/swager, Response status code: 404
+2025-12-02 22:12:10.188 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5031/swagger/index.html - null null
+2025-12-02 22:12:10.676 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5031/swagger/index.html - 200 null text/html;charset=utf-8 487.6417ms
+2025-12-02 22:12:10.932 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5031/swagger/v1/swagger.json - null null
+2025-12-02 22:12:11.419 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5031/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 488.4586ms
+2025-12-02 22:12:23.435 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5031/api/Doctors - application/json 89
+2025-12-02 22:12:23.460 +01:00 [INF] Executing endpoint 'MedHealth.Catalog.Api.Controllers.DoctorsController.Create (MedHealth.Catalog.Api)'
+2025-12-02 22:12:23.526 +01:00 [INF] Route matched with {action = "Create", controller = "Doctors"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(MedHealth.Catalog.Bll.Models.CreateDoctorDto) on controller MedHealth.Catalog.Api.Controllers.DoctorsController (MedHealth.Catalog.Api).
+2025-12-02 22:12:24.640 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-12-02 22:12:24.751 +01:00 [INF] Executed action MedHealth.Catalog.Api.Controllers.DoctorsController.Create (MedHealth.Catalog.Api) in 1209.4477ms
+2025-12-02 22:12:24.760 +01:00 [INF] Executed endpoint 'MedHealth.Catalog.Api.Controllers.DoctorsController.Create (MedHealth.Catalog.Api)'
+2025-12-02 22:12:24.776 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5031/api/Doctors - 400 null application/problem+json; charset=utf-8 1340.6858ms
+2025-12-02 22:14:08.706 +01:00 [INF] Application is shutting down...

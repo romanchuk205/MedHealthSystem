@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Dal\\MedHealth.Appointments.Dal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Dal\\MedHealth.Appointments.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Dal\\MedHealth.Appointments.Dal.csproj",
+        "projectName": "MedHealth.Appointments.Dal",
+        "projectPath": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Dal\\MedHealth.Appointments.Dal.csproj",
+        "packagesPath": "C:\\Users\\dana2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dana2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\MedHealth.Appointments.Domain.csproj": {
+                "projectPath": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\MedHealth.Appointments.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\dana2\\.dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\MedHealth.Appointments.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\MedHealth.Appointments.Domain.csproj",
+        "projectName": "MedHealth.Appointments.Domain",
+        "projectPath": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\MedHealth.Appointments.Domain.csproj",
+        "packagesPath": "C:\\Users\\dana2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dana2\\RiderProjects\\MedHealthSystem\\MedHealth.Appointments.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dana2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\dana2\\.dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
